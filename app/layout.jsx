@@ -1,6 +1,7 @@
 import '@styles/globals.css';
-import { Root } from 'postcss';
-import { Children } from 'react';
+
+import Nav from '@components/Nav';
+import Provider from '@components/Provider';
 
 export const metadeta = {
   title: 'Promtopia',
@@ -14,7 +15,10 @@ const RootLayout = ({ children }) => {
         <div className="main">
           <div className="gradient"></div>
         </div>
-        <main className="app">{children}</main>
+        <main className="app">
+          <Nav />
+          {children}
+        </main>
       </body>
     </html>
   );
