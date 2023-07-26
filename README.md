@@ -1,12 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Project Demo:
 
 https://github.com/harshalashi/Promptopia/assets/92630670/1a5bb62a-e16e-4531-8c12-c0b1390f4390
-
-
-
-https://github.com/harshalashi/Promptopia/assets/92630670/9e16743c-fd0f-4813-b3b6-3327da0f1198
-
 
 ## Getting Started
 
